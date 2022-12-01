@@ -1,0 +1,45 @@
+.container{
+    text-align: center;
+    width: 450px;
+    margin-top: 120px;
+    font-family: Times, "Times new Roman" , serif;
+    padding: 5px 15px;
+    border: 5px solid #D54B42;
+    border-style: outset;
+    background-image: url(opercityimage/pic2.jpg);
+    background-size: cover;
+    -o-background-size: cover;
+    -moz-background-size: cover;
+    -webkit-backgound-size: cover;
+}
+
+body{
+    background-image: url(image/pic1.jpg);
+    background-size: cover;
+    -o-background-size: cover;
+    -moz-background-size: cover;
+    -webkit-backgound-size: cover;
+}
+
+.heading{
+    font-size: 50px;
+    text-decoration: underline;
+    color: yellow;
+}
+
+.heading1{
+    font-size: 30px;
+    color: yellow;
+}
+
+p{
+    font-family: Times, "Times new Roman" , serif;
+    font-weight: bold;
+    color: #fff;
+    font-size: 40px;
+    position: relative;
+    top: 8px;
+    text-align: center;
+    margin-left: 270px;
+    
+}

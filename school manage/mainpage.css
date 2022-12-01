@@ -1,0 +1,70 @@
+.flaot{
+    margin: 10px 10px 10px 80px;
+  
+}
+.vl{
+    border-left: 3px solid gray;
+    margin-left: 12px;
+    margin-right: 20px;
+}
+.label:hover{
+    text-decoration: none;
+    color: #4169E1;
+    font-size: 40px;
+}
+.label{
+    font-size: 35px;
+    text-decoration: underline;
+    margin-left: 50px;
+}
+#faculty{
+    text-align: center;
+}
+.test{
+    font-size: 20px;
+    text-align: center;
+}
+#students{
+    float: left;
+    text-align: center;
+}
+.results{
+    font-weight: bold;
+    font-size: 35px;
+    text-decoration: underline;
+}
+span{
+    font-size: 25px;
+    text-decoration: underline;
+    margin-left: 15px;
+}
+span:hover{
+    font-size: 35px;
+    color: #4169E1
+}
+.container1{
+    border: 2px solid black;
+    width: 1512px;
+    margin: 20px 0px 70px 25px ;
+    padding: 14px 14px 10px 14px;
+    height: 100%;
+}
+.container{
+    border: 2px solid black;
+    width: 1312px;
+    margin: 20px 0px 20px 25px;
+    padding: 14px 14px 5px 14px;
+}
+img{
+    width: 35px;
+    height: 27px;
+    margin-right: 10px;
+    background-size: cover;
+    -o-background-size: cover;
+    -moz-background-size: cover;
+    -webkit-backgound-size: cover;
+}
+.btn{
+    color: white;
+}
+

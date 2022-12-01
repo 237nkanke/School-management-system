@@ -1,0 +1,36 @@
+body{
+    margin-bottom: 60px;
+}
+#container{
+    height: 100%;
+    margin: 10px 20px;
+    border: 2px solid black;
+    padding: 12px 12px;
+}
+.heading{
+    font-weight: bold;
+    font-size: 30px;
+    text-decoration: underline;
+}
+.information{
+    padding: 10px 20px;
+}
+
+#table{
+    border: 2px solid black;
+    width: 1312px;
+    margin: 10px 20px;
+    padding: 14px 14px 0px 14px;
+}
+#results{
+    font-weight: bold;
+    font-size: 50px;
+    text-decoration: underline;
+}
+#delete:hover{
+    font-weight: bold;
+    text-decoration: underline;
+}
+#table th{
+    font-weight: 16px;
+}

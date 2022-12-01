@@ -1,0 +1,30 @@
+body{
+    margin-bottom: 60px;
+}
+#container{
+    height: 100%;
+    margin: 10px 20px;
+    border: 2px solid black;
+    padding: 12px 12px;
+}
+.information{
+    padding: 10px 20px;
+}
+.bad{
+    font-weight: bold;
+    font-size: 30px;
+}
+
+label{
+    font-weight: bold;
+}
+
+.information input{
+    width: 520px;
+}
+#headinge{
+    color: green;
+    font-weight: bold;
+}
+
+
